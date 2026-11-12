@@ -6,7 +6,7 @@ An executive business intelligence dashboard designed to provide a clear, non-te
 
 ## Project Context & Objective
 
-Developed as a **Sapphire IQ** project, the goal of this dashboard is to translate raw e-commerce data into simple charts, graphs, and KPIs[cite: 6]. Designed specifically for a non-technical stakeholder (Ravi), the dashboard allows leadership to monitor trends, evaluate operational efficiency, and make data-driven decisions without needing technical expertise or manual spreadsheet analysis[cite: 6].
+The goal of this dashboard is to translate raw e-commerce data into simple charts, graphs, and KPIs[cite: 6]. Designed specifically for a non-technical stakeholder (Ravi), the dashboard allows leadership to monitor trends, evaluate operational efficiency, and make data-driven decisions without needing technical expertise or manual spreadsheet analysis[cite: 6].
 
 ---
 
